@@ -1,1 +1,0 @@
-marvelHeroes.push(dcHeroes);
